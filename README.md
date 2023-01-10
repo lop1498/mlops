@@ -1,2 +1,2 @@
-# mlops
-DTU Machine Learning Operations course 
+# Machine Learning Operations
+DTU MLOps course 
